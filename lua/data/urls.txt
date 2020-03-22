@@ -19,3 +19,10 @@ https://github.com/rfyiamcool/redis_lua_bulk_pop [] redis lua script example
 https://github.com/schovi/awesome-redis-scripts [] Collection of useful redis lua scripts
 https://github.com/soveran/finist.lua [] Redis based Finite State Machine
 https://github.com/soveran/stal [] Set algebra solver for Redis
+https://github.com/ryo310jp/redis-lua [] Sscan with value
+https://github.com/borg286/redis-joins [] redis-joins
+https://github.com/bwalks/redis_queue [] Lua scripts that allow for reprocessing messages when using a Redis LIST as a FIFO queue.
+https://github.com/marcoonroad/redis-scripts [] My own personal list of custom Lua <=> Redis scripts. 🔴 🌙 📖 ⚙️
+https://github.com/ekillaby/redis-metrics-queries [] Lua scripts for smart metrics queries in Redis.
+https://github.com/skyler/redis-commands [] Custom Redis Commands
+https://github.com/gregdickason/consensuscircle [] ConsensusCircle code (with LUA scripts)
