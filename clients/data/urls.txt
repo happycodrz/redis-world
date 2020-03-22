@@ -1,0 +1,1 @@
+https://github.com/whatyouhide/redix [] Fast, pipelined, resilient Redis driver for Elixir. 🛍 http://hexdocs.pm/redix
