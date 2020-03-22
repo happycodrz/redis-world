@@ -1,1 +1,2 @@
 https://github.com/lbeder/rediska [ruby] Redis simulator for testing, development, and compact environments
+https://github.com/goodform/rmtest [] Redis Module Testing Utility

@@ -1,4 +1,14 @@
-## REDIS: CLI related libraries
+## REDIS: Client libraries
+
+- https://redislabs.com/blog/multiplexing-explained/
+
+
+
+
+### Protocol
+- https://redis.io/topics/protocol
+- https://quizlet.com/344780418/flashcards
+- https://blog.gojekengineering.com/how-we-pushed-a-million-keys-to-redis-in-seconds-b99020e7cb0f
 
 
 ### Navigation

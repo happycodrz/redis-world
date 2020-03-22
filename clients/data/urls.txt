@@ -1,1 +1,3 @@
 https://github.com/whatyouhide/redix [] Fast, pipelined, resilient Redis driver for Elixir. 🛍 http://hexdocs.pm/redix
+https://github.com/nok/redis-resp [] Make the Redis Mass Insertion by using the REdis Serialization Protocol (RESP) simple.
+https://github.com/openresty/lua-redis-parser [] Lua module for parsing raw redis responses http://wiki.nginx.org/LuaRedisParser

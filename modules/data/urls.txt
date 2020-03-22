@@ -1,0 +1,42 @@
+https://github.com/antirez/disque-module [] Disque ported as Redis module
+https://github.com/antirez/neural-redis [] Neural networks module for Redis
+https://github.com/aviggiano/rm-logger [] rm-logger (redis module logger)
+https://github.com/brandur/redis-cell [rust] A Redis module that provides rate limiting in Redis as a single command.
+https://github.com/chadnickbok/redis-zstd-module [] Magically make your Redis data smaller with Zstandard compression.
+https://github.com/cossacklabs/rd_themis [] Themis module for Redis database http://www.cossacklabs.com/themis/
+https://github.com/danni-m/redis-info-statsd [] redis module to update your statsd server
+https://github.com/dbenders/redis-timer [] A timer module for Redis
+https://github.com/DECODEproject/RedRoom [] Zenroom crypto module for Redis
+https://github.com/erans/redissnowflake [] Twitter's Snowflake based ID generation as a redis module
+https://github.com/f0rmiga/sessiongate [] ⚡️A Redis module that provides session management.
+https://github.com/fcerbell/redismodule-smartcache [] Smart and autonomous cache in a redis module
+https://github.com/goodform/RediSearch [] Redis FullText search module
+https://github.com/goodform/rmtest [] Redis Module Testing Utility
+https://github.com/gsquire/redis-multi-map [] A Redis module implementing a MultiMap type
+https://github.com/infobip/redis-fpn [] Redis module for Fixed Point Number data type
+https://github.com/itamarhaber/zpop [] A Redis module that implements the regular and blocking ZPOP operations
+https://github.com/JohnSully/modssl [] An SSL Module for Redis and KeyDB https://keydb.dev/
+https://github.com/Norbytus/rust-redis-module [] Simple rust redis module to use regular expression
+https://github.com/onsigntv/redis-rate-limiter [] Implementation of the Generic Cell Rate Algorithm in C as a Redis Module
+https://github.com/poga/redis-percentile [] redis module for percentile estimation
+https://github.com/poga/redis-rating [] A Redis module that helps you calculate the real rating from positive/negative rating feedback.
+https://github.com/RedBeardLab/rediSQL [] Redis module that provides a completely functional SQL database https://redisql.com
+https://github.com/RedisAI/RedisAI [] A Redis module for serving tensors and executing deep learning graphs https://redisai.io
+https://github.com/RedisBloom/RedisBloom [] Probabilistic Datatypes Module for Redis https://redisbloom.io
+https://github.com/RediSearch/RediSearch [] Fulltext Search and Secondary Index module for Redis https://redisearch.io
+https://github.com/RediSearch/RediSearchBenchmark [] Benchmarks for the RediSearch module http://redisearch.io
+https://github.com/RedisLabs/RAMP [] Redis Automatic Module Packaging
+https://github.com/RedisLabs/redismod [] A Docker image with select Redis Labs modules
+https://github.com/RedisLabs/RedisModulesSDK [] Tools, utilities and scripts to help you write redis modules!
+https://github.com/RedisLabsModules/password [] Redis module for secure password storage
+https://github.com/RedisLabsModules/redex [] Extension modules to Redis' native data types and commands
+https://github.com/RedisLabsModules/redismodule-rs [] Rust API for Redis Modules API
+https://github.com/RedisLabsModules/RedisREST [] REST module for Redis
+https://github.com/RedisTimeSeries/RedisTimeSeries [] Time Series data structure for Redis https://redistimeseries.io
+https://github.com/saginoam/RedisModuleTimeSeries [] Time series values aggregation in redis using redis modules api
+https://github.com/sewenew/redis-protobuf [] Redis module for reading and writing Protobuf messages
+https://github.com/sklivvz/cthulhu [] Extend Redis with JavaScript modules
+https://github.com/tidwall/redbench [] Benchmarking for custom Redis commands and modules
+https://github.com/usmanm/redis-tdigest [] t-digest module for Redis http://redismodules.com/modules/redis…
+https://github.com/wenerme/go-rm [] Write Redis module in Golang
+https://github.com/wujunwei/redlock [] a way to achieve distributed lock by redis module

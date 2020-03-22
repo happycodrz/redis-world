@@ -1,1 +1,6 @@
 https://github.com/red-machine-games/goblin-base-server [] An open-source scalable backend for apps & games https://goblinbase.server/
+https://github.com/303671298/probet [] ...
+https://github.com/hb-go/pkg [] Go common package. conv、dispatcher、log、pool、rate…
+https://github.com/seomoz/qless-core [] Core Lua Scripts for qless
+https://github.com/slact/nchan [] Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.
+https://github.com/f0rmiga/sessiongate-go [] A driver for the SessionGate Redis module - easy session management using the Go language.

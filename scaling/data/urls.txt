@@ -1,0 +1,1 @@
+https://github.com/CodisLabs/codis [] Proxy based Redis cluster solution supporting pipeline and scaling dynamically
