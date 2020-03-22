@@ -1,0 +1,1 @@
+https://github.com/red-machine-games/goblin-base-server [] An open-source scalable backend for apps & games https://goblinbase.server/
