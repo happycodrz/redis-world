@@ -1,22 +1,40 @@
+https://github.com/a137x/decnumber-calc-redis [] Module that will allow you to make decimal calculations with redis.
+https://github.com/amyangfei/RedisModules-Go [] Using golang to write redis loadable modules
 https://github.com/antirez/disque-module [] Disque ported as Redis module
 https://github.com/antirez/neural-redis [] Neural networks module for Redis
+https://github.com/arashThr/trie-redis-module [] Trie data type for Redis
 https://github.com/aviggiano/rm-logger [] rm-logger (redis module logger)
+https://github.com/ayarotsky/redis-shield [rust] A loadable Redis module that implements the token bucket algorithm to do rate limiting as a native command
 https://github.com/brandur/redis-cell [rust] A Redis module that provides rate limiting in Redis as a single command.
+https://github.com/CBaquero/random [] Redis module embeddings of C++ std pseudo-random generators
 https://github.com/chadnickbok/redis-zstd-module [] Magically make your Redis data smaller with Zstandard compression.
 https://github.com/cossacklabs/rd_themis [] Themis module for Redis database http://www.cossacklabs.com/themis/
 https://github.com/danni-m/redis-info-statsd [] redis module to update your statsd server
+https://github.com/dayeshisir/redis_module_timestamp [] Redis timestamp
 https://github.com/dbenders/redis-timer [] A timer module for Redis
 https://github.com/DECODEproject/RedRoom [] Zenroom crypto module for Redis
 https://github.com/erans/redissnowflake [] Twitter's Snowflake based ID generation as a redis module
+https://github.com/erans/redisunique [] This is a simple Redis module which generates unique IDs based on a number of differet algorithms
+https://github.com/erberry/redis_modules [] several redis module
 https://github.com/f0rmiga/sessiongate [] ⚡️A Redis module that provides session management.
+https://github.com/fatihky/redis-roaring [] Roaring Bitmaps as a Redis Module
 https://github.com/fcerbell/redismodule-smartcache [] Smart and autonomous cache in a redis module
+https://github.com/filipecosta90/list_extend [] Sample Redis Module, named LIST_EXTEND, implementing low and high value filters on LISTs.
 https://github.com/goodform/RediSearch [] Redis FullText search module
 https://github.com/goodform/rmtest [] Redis Module Testing Utility
 https://github.com/gsquire/redis-multi-map [] A Redis module implementing a MultiMap type
 https://github.com/infobip/redis-fpn [] Redis module for Fixed Point Number data type
 https://github.com/itamarhaber/zpop [] A Redis module that implements the regular and blocking ZPOP operations
+https://github.com/JekaNS/redis_keyspace_amqp [] Redis module for forwarding keyspace events to RabbitMQ
+https://github.com/JohnSully/KeyDB_JSON [] A JSON module for Redis and KeyDB
 https://github.com/JohnSully/modssl [] An SSL Module for Redis and KeyDB https://keydb.dev/
+https://github.com/liaokz/Redis-ZsetExtCmd [] This redis module extends the zpop command with condition.
+https://github.com/liaokz/Redis-ZSetWithTime [] An enhanced zset structure with timestamp dimension as a redis module
+https://github.com/MatthewDarnell/RedisBigNum [] A simple Redis module for setting and incrementing big numbers
+https://github.com/neverlee/unique [] Redis module. Unique queue
 https://github.com/Norbytus/rust-redis-module [] Simple rust redis module to use regular expression
+https://github.com/nutzam/redis-uuid-module [] uuid module for redis 4.0+
+https://github.com/ogama/redis-interval-module [] redis-interval-module
 https://github.com/onsigntv/redis-rate-limiter [] Implementation of the Generic Cell Rate Algorithm in C as a Redis Module
 https://github.com/poga/redis-percentile [] redis module for percentile estimation
 https://github.com/poga/redis-rating [] A Redis module that helps you calculate the real rating from positive/negative rating feedback.
@@ -28,15 +46,25 @@ https://github.com/RediSearch/RediSearchBenchmark [] Benchmarks for the RediSear
 https://github.com/RedisLabs/RAMP [] Redis Automatic Module Packaging
 https://github.com/RedisLabs/redismod [] A Docker image with select Redis Labs modules
 https://github.com/RedisLabs/RedisModulesSDK [] Tools, utilities and scripts to help you write redis modules!
+https://github.com/RedisLabs/rmnotify [] A library for key and event space Notifications for Redis Modules
 https://github.com/RedisLabsModules/password [] Redis module for secure password storage
 https://github.com/RedisLabsModules/redex [] Extension modules to Redis' native data types and commands
 https://github.com/RedisLabsModules/redismodule-rs [] Rust API for Redis Modules API
 https://github.com/RedisLabsModules/RedisREST [] REST module for Redis
+https://github.com/RedisLabsModules/RLUtils [] Utils library for redis modules
 https://github.com/RedisTimeSeries/RedisTimeSeries [] Time Series data structure for Redis https://redistimeseries.io
+https://github.com/rodrigoap/tapir [] Redis module - dynamic throttling
 https://github.com/saginoam/RedisModuleTimeSeries [] Time series values aggregation in redis using redis modules api
+https://github.com/seregayoga/redis-k-module [] Redis k module
 https://github.com/sewenew/redis-protobuf [] Redis module for reading and writing Protobuf messages
 https://github.com/sklivvz/cthulhu [] Extend Redis with JavaScript modules
+https://github.com/TamarLabs/ReDe [clang] A Redis dehydrator module
+https://github.com/tideways/redis-hdrhistogram-module [] A Redis Module to integrate HdrHistogram_C as a datatype (Prototype)
 https://github.com/tidwall/redbench [] Benchmarking for custom Redis commands and modules
+https://github.com/umorigu/rust_simple_redis_module [] Simple Redis module in Rust
 https://github.com/usmanm/redis-tdigest [] t-digest module for Redis http://redismodules.com/modules/redis…
+https://github.com/voidpirate/redis-unsigned-decr [] Redis module for unsigned decr
 https://github.com/wenerme/go-rm [] Write Redis module in Golang
+https://github.com/wjdavis5/RedisPeek [] A redis module to support peeking at a key
 https://github.com/wujunwei/redlock [] a way to achieve distributed lock by redis module
+https://github.com/zshipko/ocaml-redis-module [] Redis Modules in OCaml
