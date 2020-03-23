@@ -1,1 +1,2 @@
 https://github.com/CodisLabs/codis [] Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+https://github.com/Netflix/dynomite [] A generic dynamo implementation for different k-v storage engines

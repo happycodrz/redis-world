@@ -1,5 +1,6 @@
 ## REDIS : Testing approaches
 
+- https://redislabs.com/blog/bullet-proofing-lua-scripts-in-redispy/
 
 ### Navigation
 

@@ -1,9 +1,18 @@
 ## REDIS : Modules
 
+
+### Hubs / Lists
+- https://redis.io/modules
+- https://redislabs.com/community/redis-modules-hub/
+
+
+### Resources
 - https://www.slideshare.net/itamarhaber/redis-modules-an-introduction-to-users-developers
 - https://redislabs.com/blog/writing-redis-modules/
 - https://redis.io/topics/modules-intro
 - https://github.com/antirez/redis/blob/fc0c9c8097a5b2bc8728bec9cfee26817a702f09/src/modules/hellotype.c
+
+- https://www.hackerearth.com/de/challenges/hackathon/redislabs-hackathon-usa/ -> video
 
 ### Navigation
 

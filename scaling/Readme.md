@@ -4,6 +4,14 @@
 - https://github.com/CodisLabs/codis
 
 
+### Netflix/dynomite
+- https://github.com/Netflix/dynomite/wiki/Videos-and-Presentations
+
+
+
+### https://nchan.io/redisconf2016
+- https://nchan.io/redisconf2016
+
 ### Navigation
 
 - [By Name](#by-name)
